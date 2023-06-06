@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Manuscript";
+    font-display: swap;
+    src: url("../font/Manuscript.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Calme";
+    font-display: swap;
+    src: url("../font/Calmius-ExtraLight.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Calme";
+    font-display: swap;
+    src: url("../font/Calmius-ExtraBold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "LeJardin";
+    font-display: swap;
+    src: url("../font/LeJardinRegular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
