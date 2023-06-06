@@ -43,6 +43,11 @@ body:before
     z-index: -2;
 }
 
+.alina
+{
+    margin-left: -14px;
+}
+
 .container-banner{
     background-image: url("../image/main.png");
     background-size: cover;
@@ -307,7 +312,7 @@ body:before
     .container-timer
     {
         height: 80px;
-        margin-top: -70px;
+        margin-top: -50px;
     }
 
     .timer .box
@@ -353,11 +358,11 @@ body:before
 
     .section-title .row-item .time
     {
-        padding-right: 10px;
-        font-size: 20px;
+        padding-right: 8px;
+        font-size: 18px;
     }
 
-    .section-title .data-description
+    .section-title .data-description.mobile
     {
         display: none;
     }
@@ -366,5 +371,20 @@ body:before
     {
         margin-bottom: 0;
         margin-top: 10px;
+    }
+
+    .section-title .data-title
+    {
+        font-size: 16px;
+    }
+
+    .section-title .data-subtitle
+    {
+        font-size: 12px;
+    }
+
+    .section-title .data-description
+    {
+        margin-bottom: 2px;
     }
 }
